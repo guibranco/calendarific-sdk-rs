@@ -2,6 +2,9 @@
 
 The [Project API](https://apibr.com) client wrapper written in Rust.
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/96c5f836e1ece8027022/maintainability)](https://codeclimate.com/github/guibranco/calendarific-sdk-rs/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/96c5f836e1ece8027022/test_coverage)](https://codeclimate.com/github/guibranco/calendarific-sdk-rs/test_coverage)
+
 | Service      | Status |
 | -------      | :----: |
 | AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/AppVeyorId?svg=true)](https://ci.appveyor.com/project/guibranco/apiclient-boilerplate-rust/branch/master) |
