@@ -2,7 +2,10 @@
 
 The [Project API](https://apibr.com) client wrapper written in Rust.
 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/calendarific-sdk-rs/main)
+![Crates.io](https://img.shields.io/crates/d/calendarific-sdk-rs)
 [![wakatime](https://wakatime.com/badge/github/guibranco/calendarific-sdk-rs.svg)](https://wakatime.com/badge/github/guibranco/calendarific-sdk-rs)
+
 [![Maintainability](https://api.codeclimate.com/v1/badges/96c5f836e1ece8027022/maintainability)](https://codeclimate.com/github/guibranco/calendarific-sdk-rs/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/96c5f836e1ece8027022/test_coverage)](https://codeclimate.com/github/guibranco/calendarific-sdk-rs/test_coverage)
 [![CodeFactor](https://www.codefactor.io/repository/github/guibranco/calendarific-sdk-rs/badge)](https://www.codefactor.io/repository/github/guibranco/calendarific-sdk-rs)
